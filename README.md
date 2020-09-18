@@ -4,8 +4,8 @@
 Jovem desenvolvedor apaixonado por tecnologia e buscando novos conceitos de programação. 
 Atualmente desevolvedor em @LuxFacta Soluções de TI.
 
-Participei da Semana OmniStack desde da versão 6 até a ultima versão que agora é NEXT LEVEL WEEK
-Love for technology and innovation.<br>
+Participante da Semana OmniStack 7 até a migração para NEXT LEVEL WEEK ministrado pela @rocktseat!
+<br>
 "Existem um monte de pequenas razões para as grandes coisas acontecerem em nossas vidas."<br>
 
 [![Node Badge](https://img.shields.io/badge/-PHP-ff8219?style=flat-square&logo=node&logoColor=white&link=https://www.linkedin.com/in/victor-hugo-p-b11739115/)](https://www.linkedin.com/in/victor-hugo-p-b11739115/)
